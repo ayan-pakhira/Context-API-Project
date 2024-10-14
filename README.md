@@ -1,4 +1,4 @@
-# This is A basic project to understand the Topic CONTEXT API in react. That is why i have created a project, which can accept the data from the login page and print it in the webpage.
+This is A basic project to understand the Topic CONTEXT API in react. That is why i have created a project, which can accept the data from the login page and print it in the webpage.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
